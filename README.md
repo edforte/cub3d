@@ -1,6 +1,6 @@
 # cub3D
 
-A Wolfenstein 3D–style first-person raycasting engine written from scratch in C with the [MiniLibX](https://github.com/42Paris/minilibx-linux) graphics library. Project of the 42 Common Core, built in a team of two with [SimoneFelici](https://github.com/SimoneFelici).
+A Wolfenstein 3D–style first-person raycasting engine written from scratch in C with the [MiniLibX](https://github.com/42Paris/minilibx-linux) graphics library. Project of the 42 Common Core, built in a team of two: [SimoneFelici](https://github.com/SimoneFelici) and [EdoardoForte](https://github.com/edforte).
 
 https://github.com/user-attachments/assets/0e87dd7f-8e9d-4b9c-9183-9d1d16273648
 
